@@ -1,6 +1,6 @@
 <h1 align="center"> Amigo Secreto</h1>
 
-![Tela Inicial - Home](image-1.png)
+![Tela Inicial - Home](assets/image-1.png)
 
 ## DESCRIÇÃO DO PROJETO 
 
@@ -24,4 +24,4 @@ Desenvolver uma aplicação que permita aos usuários inserir nomes de amigos em
 
 - `Funcionalidade 4 Sorteio aleatório`: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
 
-![Resultado do Amigo Secreto com os nomes já inseridos e o sorteio realizado de um nome](image.png)
+![Resultado do Amigo Secreto com os nomes já inseridos e o sorteio realizado de um nome](assets/image.png)
